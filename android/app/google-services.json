@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1081666481650",
+    "project_id": "flutterfire-e21b3",
+    "storage_bucket": "flutterfire-e21b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1081666481650:android:ae7af76e42acdf9c6e8f6b",
+        "android_client_info": {
+          "package_name": "com.rotakala.flutterfire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1081666481650-eo24p0guon0gupd6ca3g0om3al94eq8p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJPoQ5zZlrpzN9whDIqMBDWamEj9FcVTI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1081666481650-eo24p0guon0gupd6ca3g0om3al94eq8p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
